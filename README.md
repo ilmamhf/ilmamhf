@@ -1,5 +1,5 @@
 # Hi 👋 I'm Ilmam
-### Software Engineer | Full Stack Web Developer | AI Enthusiast
+### Software Engineer | Backend & Network | AI/ML
 
 I’m a Software Engineer focused on building scalable web applications and clean, modern digital solutions.  
 I enjoy turning ideas into real products with strong system architecture and great user experience.
