@@ -3,6 +3,7 @@
 
 I’m a Software Engineer focused on building scalable web applications and clean, modern digital solutions.  
 I enjoy turning ideas into real products with strong system architecture and great user experience.
+I use AI Tools.
 
 ---
 
