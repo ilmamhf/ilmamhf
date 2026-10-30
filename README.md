@@ -1,47 +1,46 @@
 # Hi 👋 I'm Ilmam
-### Software Engineer | Backend & Automation Interest
+### Software Engineer | Web Development
 
-I’m a Software Engineer focused on building scalable web applications and clean, modern digital solutions.  
-I enjoy turning ideas into real products with strong system architecture and great user experience.
-I use AI Tools.
+I’m a Computer Engineering Graduate with a current focus of Web Development and Transferable Programming Fundamental. I have some broad exposure to technologies from college and projects that is outside from my main focus (which is webdev ofc) and that is: IoT, LLM/AI/ML models implementation (Local and API), Databases (SQL, NoSQL, and S3 Object Storage), to integrating multiple application (Web-Cloud-AI-Mobile). I also try to do some codewars, leetcode, or experimenting something new in my free time. My target is that one day i become a senior software engineer which could maneuver between framework, devices, and technologies.
 
-🔍 **Currently focused on Laravel Clean Architecture (Backend)**
+🔍 **Currently focused on Laravel API (Backend) and Vite React Tailwind (Frontend)**
 
 ---
 
 ## 🚀 About Me
 
 - 💻 Software Engineer with hands-on experience in full-stack web development  
-- 🌐 Building modern web apps with React, Node.js, and cloud services  
+- 🌐 Building modern web apps with React, Laravel, and cloud services  
 - ☁️ Experienced with AWS, Firebase, and Supabase  
-- 📊 Comfortable designing REST APIs and backend systems  
+- 📊 Comfortable designing REST APIs systems
 - 🎨 Strong interest in clean UI with Tailwind CSS  
-
-I love exploring new technologies while consistently delivering practical and well-structured solutions.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 My Tech Stack
 
 ### 💻 Frontend
 - React
-- Next.js
 - Tailwind CSS
 
 ### ⚙️ Backend
+- Laravel API
 - Node.js
 - Express
 - Flask
 - FastAPI
 
-### 📱 Mobile
+### 👾 Fullstack
+- Next.js
 - Flutter
 
 ### 🗄 Database & Auth
+- PostgreSQL
+- MySQL
+- Supabase
+- MinIO
 - MongoDB  
 - Firebase Firestore  
-- Supabase (PostgreSQL)
-- MinIO
 
 ### ☁️ Cloud & DevOps
 - AWS EC2  
@@ -53,6 +52,9 @@ I love exploring new technologies while consistently delivering practical and we
 - Docker
 - Postman
 - n8n
+
+### 🤖 AI Tools
+- OpenCode, AntiGravity, Copilot, Cline, NVIDIA API, Gemini API, AI WebChat (GPT, Gemini, Claude, Grok)
 
 ---
 
