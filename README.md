@@ -1,6 +1,6 @@
 # Hi 👋 I'm Ilmam
 
-### Computer Engineering Graduate | Web Developer (Laravel API + React)
+### Computer Engineering Graduate | Software Developer
 
 ![Open to Work](https://img.shields.io/badge/Open_to_Work-Frontend_/_Full--Stack-2ea44f?style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilmam-hashfi-firjatullah/)
