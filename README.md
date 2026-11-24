@@ -44,6 +44,6 @@ I build full-stack web apps and REST APIs with React and Laravel. Beyond web, I 
 
 ## 🧩 Beyond Work
 
-I practice on Codewars and like experimenting with new tools in my free time. [Codewars](link)
+I practice on Codewars and like experimenting with new tools in my free time.
 
 ⭐ Thanks for visiting!
