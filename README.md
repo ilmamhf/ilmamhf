@@ -1,68 +1,49 @@
 # Hi 👋 I'm Ilmam
-### Software Engineer | Web Development
 
-I’m a Computer Engineering Graduate with a current focus of Web Development and Transferable Programming Fundamental. I have some broad exposure to technologies from college and projects that is outside from my main focus (which is webdev ofc) and that is: IoT, LLM/AI/ML models implementation (Local and API), Databases (SQL, NoSQL, and S3 Object Storage), to integrating multiple application (Web-Cloud-AI-Mobile). I also try to do some codewars, leetcode, or experimenting something new in my free time. My target is that one day i become a senior software engineer which could maneuver between framework, devices, and technologies.
+### Computer Engineering Graduate | Web Developer (Laravel API + React)
 
-🔍 **Currently focused on Laravel API (Backend) and Vite React Tailwind (Frontend)**
+![Open to Work](https://img.shields.io/badge/Open_to_Work-Frontend_/_Full--Stack-2ea44f?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilmam-hashfi-firjatullah/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilmamhf643@gmail.com)
 
----
+I build full-stack web apps and REST APIs with React and Laravel. Beyond web, I have hands-on exposure to AI/LLM integration (local and API), IoT, Mobile and cloud services. My goal is to grow into a senior engineer who can move comfortably between frameworks, devices, and technologies. I want to deliver something that matters.
 
-## 🚀 About Me
-
-- 💻 Software Engineer with hands-on experience in full-stack web development  
-- 🌐 Building modern web apps with React, Laravel, and cloud services  
-- ☁️ Experienced with AWS, Firebase, and Supabase  
-- 📊 Comfortable designing REST APIs systems
-- 🎨 Strong interest in clean UI with Tailwind CSS  
+🔍 **Currently focused on:** Laravel API (backend) and React Tailwind (frontend)
 
 ---
 
-## 🛠 My Tech Stack
+## 🚀 Featured Projects
 
-### 💻 Frontend
-- React
-- Tailwind CSS
-
-### ⚙️ Backend
-- Laravel API
-- Node.js
-- Express
-- Flask
-- FastAPI
-
-### 👾 Fullstack
-- Next.js
-- Flutter
-
-### 🗄 Database & Auth
-- PostgreSQL
-- MySQL
-- Supabase
-- MinIO
-- MongoDB  
-- Firebase Firestore  
-
-### ☁️ Cloud & DevOps
-- AWS EC2  
-- Firebase  
-- Supabase  
-
-### 🔧 Tools
-- Git & GitHub
-- Docker
-- Postman
-- n8n
-
-### 🤖 AI Tools
-- OpenCode, AntiGravity, Copilot, Cline, NVIDIA API, Gemini API, AI WebChat (GPT, Gemini, Claude, Grok)
+| Project | What it teaches | Stack |
+|---|---|---|
+| [**Bookmark Manager**](https://github.com/ilmamhf/bookmark-manager) | React Fundamental (State Management, Custom Hook, Context API, Rules of React) | React Tailwind, Mockoon |
+| [**Page Builder**](https://github.com/ilmamhf/your-page-cms) | FE BE Development, MVC, API Modeling | Laravel API, React Tailwind, Postgresql |
+| [**Conversatype.com**](https://www.conversatype.com/) | AI-Driven Development, Site Publishing, SEO, Analytics | React Tailwind, Cloudflare Domain, Google Search Console, Posthog, Vercel |
 
 ---
 
-## 📫 Connect with Me
+## 🛠 Tech Stack
 
-- 💼 LinkedIn: https://www.linkedin.com/in/ilmam-hashfi-firjatullah/
-- 📧 Email: ilmamhf643@gmail.com  
+### Core (what I use most)
+![Skills](https://skillicons.dev/icons?i=typescript,javascript,react,laravel,php,tailwind,vite,postgres,mysql,git,github,postman)
+
+### Also worked with
+![Skills](https://skillicons.dev/icons?i=py,docker,nodejs,express,flask,fastapi,nextjs,flutter,mongodb,firebase,supabase,aws,pytorch)
+
+### Automation & AI
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![NVIDIA API](https://img.shields.io/badge/NVIDIA_API-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge&logo=openrouter&logoColor=white)
+![Z.ai](https://img.shields.io/badge/Z.ai-000000?style=for-the-badge)
+
+
+**AI-assisted workflow:** OpenCode, CommandCode, Antigravity, Copilot, Claude, ChatGPT, Gemini, Deepseek, Grok
 
 ---
 
-⭐ Thanks for visiting my GitHub profile!
+## 🧩 Beyond Work
+
+I practice on Codewars and like experimenting with new tools in my free time. [Codewars](link)
+
+⭐ Thanks for visiting!
